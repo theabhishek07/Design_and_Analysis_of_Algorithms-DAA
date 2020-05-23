@@ -4,9 +4,8 @@ Welcome to Design_and_Analysis_of_Algorithms-DAA 📋 This Repository was made t
 **_You are always welcome to add more or improve any resource in this repository._**
 # Rules for collaboration
 
-1. Create folder you want to add.
-2. Update Readme.md with relative link to your added file.
-3. Never work on the master branch.
+1. Create your folder you want to add.
+2. Never work on the master branch.
 
 # Community Contributions
 
